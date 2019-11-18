@@ -19,12 +19,12 @@ analytics:
   google:
     tracking_id: "UA-150962760-1" # Replace this with your ID, or delete
     anonymize_ip: true
-title: CloudPilot.no | Just another PowerShell blog
-email: freddie@cloudpilot.no
+title: aassveen.com | Just another PowerShell blog
+email: bjornar@aassveen.com
 description: >- # this means to ignore newlines until "baseurl:"
-  CloudPilot.no | Just another PowerShell blog
-twitter_username: username
-github_username: username
+  aassveen.com | Just another PowerShell blog
+twitter_username: aassveen2k
+github_username: aassveen
 minimal_mistakes_skin: dark
 search: false
 
@@ -64,17 +64,17 @@ plugins:
 author:
   name   : "Freddie Christiansen"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Hi, I'm Freddie. I like PowerShell."
-  location : "Near Hamar, Norway"
+  bio    : "Hi, I'm Bjørnar. I like Food."
+  location : "Near Lillehammer, Norway"
   links:
-    - label: "Near Hamar, Norway"
+    - label: "Near Lillehammer, Norway"
       icon: "fas fa-map-marker-alt"
     - label: " Mail"
       icon: "far fa-envelope"
-      url: "mailto:freddie@cloudpilot.no"
+      url: "mailto:bjornar@aassveen.com"
     - label: " LinkedIn"
       icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/freddie-christiansen-64305b106"
+      url: "https://www.linkedin.com/in/bjornar.aassveen"
 
 footer:
   links:
