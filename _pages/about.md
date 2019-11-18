@@ -23,5 +23,5 @@ Bjørnar is working as a Senior Consultant in Cloud and Infrastructure at EVRY.
 
 **Wanna get in touch with him?**
 
-Mail: (mailto:bjornar@aassveen.com)
+Mail:[Bjørnar Aassveen](<mailto:bjornar@aassveen.com>)
 
