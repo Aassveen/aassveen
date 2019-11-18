@@ -62,7 +62,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Freddie Christiansen"
+  name   : "Bjørnar Aassveen"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Hi, I'm Bjørnar. I like Food."
   location : "Near Lillehammer, Norway"
