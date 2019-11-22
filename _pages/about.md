@@ -5,7 +5,7 @@ title: "About"
 Bjørnar is working as a Senior Consultant in Cloud and Infrastructure at EVRY. 
   
  
-**Certifications:**
+**Certifications/Courses:**
 *  AZ900 - Azure Fundamentals 
 *  MS 20410 - Windows Server 2012
 *  ITIL Foundation V3.
