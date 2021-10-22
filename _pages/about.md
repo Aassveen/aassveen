@@ -26,7 +26,7 @@ Bjørnar is working as a Senior Consultant in Lindbak IT.
 
 **Wanna get in touch with him?**
 
-Mail:[Bjørnar Aassveen](<mailto:bjornar@aassveen.com>)
+[Bjørnar Aassveen](<mailto:bjornar@aassveen.com>)
 
 
 <img src="https://www.logitrain.com.au/wp-content/uploads/2020/08/ITIL-V4-1024x464-1.jpg" alt="drawing" width="80"/>
