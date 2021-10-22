@@ -2,13 +2,13 @@
 permalink: /about/
 title: "About"
 ---
-**Bjørnar is working as a Senior Consultant in Lindbak IT**
+**Bjørnar jobber som Senior Konsulent i Lindbak IT**
 
-***Bjørnar wants to understand the customer's need to take care of daily operations during changes and upgrades.
-After several years as a technical consultant and experience from "both sides of the table",Bjørnar has gained a good technical and business understanding.***
+***Bjørnar ønsker å forstå kundens behov for å ivareta daglig drift under endringer og oppgraderinger.
+Etter flere år som teknisk utførende og erfaring fra «begge sider av bordet» har Bjørnar fått opparbeidet seg en god teknisk og forretningsforståelse.***
   
  
-**Certifications/Courses:**
+**Sertifiseringer/Kurs:**
 *  AZ900 - Azure Fundamentals 
 *  MS900 - Microsoft 365 Fundamentals
 *  MS 20410 - Windows Server 2012
@@ -20,14 +20,14 @@ After several years as a technical consultant and experience from "both sides of
 
 
 
-**Currently looking into:**
+**Jobber for tiden med:**
 * Microsoft 365
 * Azure 
 * Hybrid Environments
 * Virtualization
 * Windows 365
 
-**Wanna get in touch with him?**
+**Vil du komme i kontakt med han?**
 
 [Bjørnar Aassveen](<mailto:bjornar@aassveen.com>)
 
