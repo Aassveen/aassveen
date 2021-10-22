@@ -1,6 +1,6 @@
 main:
-  - title: "Posts"
-    url: /posts/
+  - title: "Innlegg"
+    url: /Innlegg/
     url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "Bjørnar"
+    url: /Bjørnar/
