@@ -1,5 +1,5 @@
 ---
-permalink: /about/
+permalink: /Om/
 title: "Om"
 ---
 **Bjørnar jobber som Senior Konsulent i Lindbak IT**
