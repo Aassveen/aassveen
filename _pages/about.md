@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "About"
+title: "Om"
 ---
 **Bjørnar jobber som Senior Konsulent i Lindbak IT**
 
