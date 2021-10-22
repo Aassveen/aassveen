@@ -2,7 +2,7 @@
 permalink: /about/
 title: "About"
 ---
-Bjørnar is working as a Senior Consultant in Cloud and Infrastructure at EVRY. 
+Bjørnar is working as a Senior Consultant in Lindbak IT.
   
  
 **Certifications/Courses:**
