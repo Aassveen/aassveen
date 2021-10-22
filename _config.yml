@@ -64,7 +64,7 @@ plugins:
 author:
   name   : "Bjørnar Aassveen"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Hi, I'm Bjørnar. I like Food."
+  bio    : "Hi, I'm Bjørnar. I like IT & Food."
   location : "Near Lillehammer, Norway"
   links:
     - label: "Near Lillehammer, Norway"
