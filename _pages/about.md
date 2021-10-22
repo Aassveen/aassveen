@@ -2,7 +2,10 @@
 permalink: /about/
 title: "About"
 ---
-Bjørnar is working as a Senior Consultant in Lindbak IT.
+**Bjørnar is working as a Senior Consultant in Lindbak IT**
+
+Bjørnar wants to understand the customer's need to take care of daily operations during changes and upgrades.
+After several years as a technical consultant and experience from "both sides of the table",Bjørnar has gained a good technical and business understanding.
   
  
 **Certifications/Courses:**
