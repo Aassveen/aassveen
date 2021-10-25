@@ -17,7 +17,7 @@
 analytics:
   provider: "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id: "UA-150962760-1" # Replace this with your ID, or delete
+    tracking_id: "G-5GZXBMP1R7" # Replace this with your ID, or delete
     anonymize_ip: true
 title: aassveen.com | 
 email: bjornar@aassveen.com
