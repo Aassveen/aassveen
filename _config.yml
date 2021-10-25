@@ -15,17 +15,17 @@
 # in the templates via {{ site.myvariable }}.
 # Analytics
 analytics:
-  provider: "google-universal" # false (default), "google", "google-universal", "custom"
+  provider: "google-gtag"
   google:
-    tracking_id: "UA-150962760-1" # Replace this with your ID, or delete
-    anonymize_ip: true
+    tracking_id: "G-5GZXBMP1R7"
+    anonymize_ip: false # default
 title: aassveen.com | 
 email: bjornar@aassveen.com
 description: >- # this means to ignore newlines until "baseurl:"
   aassveen.com | 
 twitter_username: aassveen2k
 github_username: aassveen
-minimal_mistakes_skin: dark
+minimal_mistakes_skin: contrast
 search: false
 
 # Build settings
