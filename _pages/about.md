@@ -2,11 +2,7 @@
 permalink: /Bjørnar/
 title: "Bjørnar"
 ---
-**Bjørnar jobber som Senior Konsulent i Lindbak IT**
-
-***Bjørnar ønsker å forstå kundens behov for å ivareta daglig drift under endringer og oppgraderinger.
-Etter flere år som teknisk utførende og erfaring fra «begge sider av bordet» har Bjørnar fått opparbeidet seg en god teknisk og forretningsforståelse.***
-  
+ 
  
 **Sertifiseringer/Kurs:**
 *  AZ900 - Azure Fundamentals 
