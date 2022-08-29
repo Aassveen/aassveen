@@ -75,6 +75,9 @@ author:
     - label: " LinkedIn"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/bjornar-aassveen/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/Aassveen"
 
 footer:
   links:
