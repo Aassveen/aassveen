@@ -65,9 +65,9 @@ author:
   name   : "Bjørnar Aassveen"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Hei,jeg er Bjørnar. Jeg liker IT & mat."
-  location : "Near Lillehammer, Norway"
+  location : "Near Brumunddal, Norway"
   links:
-    - label: "Near Lillehammer, Norway"
+    - label: "Near Brumunddal, Norway"
       icon: "fas fa-map-marker-alt"
     - label: " Mail"
       icon: "far fa-envelope"
