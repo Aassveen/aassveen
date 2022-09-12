@@ -33,4 +33,4 @@ title: "Bjørnar"
 <img src="https://th.bing.com/th/id/R.c24eb4ed781044b3114525162bfa9166?rik=IY6Q16Uqc%2fMCDw&riu=http%3a%2f%2fstaging2.prodigylearning.com%2fwp-content%2fuploads%2f2020%2f05%2f001-MS-900-060520.png&ehk=ArEyPfxxOeyg%2bwHX7TxoL%2bQ%2b3suuxima2n1eG%2fOBzUw%3d&risl=&pid=ImgRaw&r=0" alt="drawing" width="80"/>
 <img src="https://blogtobollywood.com/wp-content/uploads/2020/08/Microsoft-Certified-Azure-Fundamentals.jpg" width="150"/>
 
-***Everyone Can Deliver IT! But not everyone can deliver quality, efficiency and professionalism***
+*** :) ***
