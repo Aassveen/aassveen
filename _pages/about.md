@@ -1,5 +1,5 @@
 ---
-permalink: /Bjørnar/
+permalink: 
 title: "Bjørnar"
 ---
  
