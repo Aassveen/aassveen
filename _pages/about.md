@@ -32,12 +32,10 @@ title: "Bjørnar"
 <img src="https://th.bing.com/th/id/R.7f7b6e750f74a8a65a042c851a339c9a?rik=atq6QoIxU4sMaA&riu=http%3a%2f%2f4.bp.blogspot.com%2f-mFdRmJCikJ0%2fTybGfi9B3SI%2fAAAAAAAAJKs%2f-I_Wck-I8vg%2fs400%2fITIL.PNG&ehk=RPfabFeeBkLY49%2bzIM1QHgEe5vNNYVY3RViBCxlfpXE%3d&risl=&pid=ImgRaw&r=0" width="250"/>
 <img src="https://i.imgur.com/nJiBU5c.png" width="250"/>
 <img src="https://i.imgur.com/JZhcEnv.png" width="250"/>
-
-<img src="https://i.imgur.com/Zz3oW4R.png" width="250"/>
 <img src="https://i.imgur.com/iI4RaRH.png" width="250"/>
 <img src="https://i.imgur.com/hA0WRDp.png" width="250"/>
 <img src="https://i.imgur.com/2gKU6CJ.png" width="250"/>
-
+<img src="https://i.imgur.com/Zz3oW4R.png" width="250"/>
 <img src="https://i.imgur.com/RUKkgbC.png" width="250"/>
 <img src="https://i.imgur.com/3dFIJBq.png" width="250"/>
 <img src="https://i.imgur.com/cdwcqUC.png" width="250"/>
