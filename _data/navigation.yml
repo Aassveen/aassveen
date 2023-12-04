@@ -1,7 +1,4 @@
 main:
-  - title: "Innlegg"
-    url: /Innlegg/
-    url: /tags/
   - title: "Bjørnar"
     url: /Bjørnar/
 
