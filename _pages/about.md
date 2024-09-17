@@ -28,10 +28,10 @@ title: "Bjørnar"
 [Bjørnar Aassveen](<mailto:bjornar@aassveen.com>)
 
 **Microsoft applied skills**
-Deploy and configure Azure Monitor
-Congifure SIEM security operations using Microsoft Sentinel
-Secure Azure services and workloads with Microsoft Defender for Cloud
-MS-012 Prepare your organization for Microsoft 365 Copilot
+* Deploy and configure Azure Monitor
+* Congifure SIEM security operations using Microsoft Sentinel
+* Secure Azure services and workloads with Microsoft Defender for Cloud
+* MS-012 Prepare your organization for Microsoft 365 Copilot
 
 
 
