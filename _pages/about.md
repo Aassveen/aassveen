@@ -27,6 +27,13 @@ title: "Bjørnar"
 
 [Bjørnar Aassveen](<mailto:bjornar@aassveen.com>)
 
+**Microsoft applied skills**
+Deploy and configure Azure Monitor
+Congifure SIEM security operations using Microsoft Sentinel
+Secure Azure services and workloads with Microsoft Defender for Cloud
+MS-012 Prepare your organization for Microsoft 365 Copilot
+
+
 
 <img src="https://www.logitrain.com.au/wp-content/uploads/2020/08/ITIL-V4-1024x464-1.jpg" width="250"/>
 <img src="https://th.bing.com/th/id/R.7f7b6e750f74a8a65a042c851a339c9a?rik=atq6QoIxU4sMaA&riu=http%3a%2f%2f4.bp.blogspot.com%2f-mFdRmJCikJ0%2fTybGfi9B3SI%2fAAAAAAAAJKs%2f-I_Wck-I8vg%2fs400%2fITIL.PNG&ehk=RPfabFeeBkLY49%2bzIM1QHgEe5vNNYVY3RViBCxlfpXE%3d&risl=&pid=ImgRaw&r=0" width="250"/>
