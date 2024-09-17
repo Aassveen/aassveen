@@ -13,25 +13,26 @@ title: "Bjørnar"
 *  MS 10965 - Microsoft SQL server 2016
 *  Safecom
 *  DigiDocFlow
-
-
-
-**Jobber for tiden med:**
-* Microsoft 365
-* Azure 
-* Hybrid Environments
-* Virtualization
-* Windows 365
-
-**Vil du komme i kontakt med han?**
-
-[Bjørnar Aassveen](<mailto:bjornar@aassveen.com>)
-
+*  
 **Microsoft applied skills**
 * Deploy and configure Azure Monitor
 * Congifure SIEM security operations using Microsoft Sentinel
 * Secure Azure services and workloads with Microsoft Defender for Cloud
 * MS-012 Prepare your organization for Microsoft 365 Copilot
+
+
+**Jobber for tiden med:**
+* Microsoft 365
+* Purview
+* Document lifecycle
+* Hybrid Environments
+* Virtualization
+
+**Vil du komme i kontakt med han?**
+
+[Bjørnar Aassveen](<mailto:bjornar@aassveen.com>)
+
+
 
 
 
