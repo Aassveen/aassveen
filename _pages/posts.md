@@ -1,4 +1,4 @@
 ---
-permalink: /Inlegg/
-title: "Inlegg"
+permalink: /Innlegg/
+title: "Innlegg"
 ---
