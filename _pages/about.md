@@ -13,7 +13,8 @@ title: "Bjørnar"
 *  MS 10965 - Microsoft SQL server 2016
 *  Safecom
 *  DigiDocFlow
-*  
+
+  
 **Microsoft applied skills**
 * Deploy and configure Azure Monitor
 * Congifure SIEM security operations using Microsoft Sentinel
